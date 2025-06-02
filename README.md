@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-org-name/your-repo-name/main/banner.png" alt="Backrush Banner" style="width:100%;"/>
+  <img src="https://github.com/Back-rush/.github/blob/143ba7604ce6b8f06bbac5c533d946807d596ab8/banner.png" alt="Backrush Banner" style="width:100%;"/>
 </div>
 
 ---
