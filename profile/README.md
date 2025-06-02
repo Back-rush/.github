@@ -13,5 +13,5 @@ Optimized for modern development stacks and shaped through collaboration with th
 
 </div>
 <div align="center">
-  <img src="https://github.com/Back-rush/.github/blob/143ba7604ce6b8f06bbac5c533d946807d596ab8/banner.png" alt="Backrush Banner" style="width:100%;"/>
+  <img src="https://github.com/Back-rush/.github/blob/main/interface.png" alt="Backrush Banner" style="width:100%;"/>
 </div>
